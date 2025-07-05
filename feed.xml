@@ -18,62 +18,70 @@
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style type="text/css"> 
+footer *{
+font-size:19px!important;
+color:#828282!important;
+line-height: 1.5;
+}
+.navbar a{
+font-size: 17.8px;
+}
+.y0b85bd193332214b6c9fbaee16ee166d{
+font-size:19.7px;
+padding:10.4px;
+color: black;
+}
+*{
+font-family: '', sans-serif;
+}
+.y0b85bd193332214b6c9fbaee16ee166d i:hover{
+background: black;
+color:#ffd8dc;
+border-radius: 50%;
+width:10mm;
+text-align:center;
+height:10mm;
+}
+.wf3e6a1e3c786d70326b2c4aa9a8f8767 *{
+color:white!important;
+}
+.align-self-stretch{
+ms-flex-item-align: stretch!important;
+align-self: stretch!important;
+}
 .nav-item{
-margin-top: 10px;
-margin-bottom: 9.6px;
-padding-left: 7.3px;
+margin-top: 10.3px;
+margin-bottom: 9.9px;
+padding-left: 7.1px;
 padding-right: 7.5px;
 }
-.bfdb4952f64cca9f5ba97d1435826b8bf i{
+.nav-link{
+color: #0d0d0d !important;
+}
+footer ul{
+padding-left: 0px!important;
+list-style: none;
+}
+ul{
+list-style: circle;
+}
+.ue2eaf10bf7bd766281c62a2c7b017899{
+text-decoration: underline!important;
+}
+.underline .line{
+width: 5rem;
+height: 3px;
+background: linear-gradient(90deg, #b59fff,#ff5a63);
+display: inline-block;
+}
+.y0b85bd193332214b6c9fbaee16ee166d i{
 border-radius: 50%;
 width: 10mm;
 text-align: center;
 line-height: 37px;
 height: 10mm;
 }
-footer a{
-color:  #868686!important;
-text-decoration: underline!important;
-}
-a{
-text-decoration: none!important;
-}
-footer{
-padding-top:60.2px;
-padding-bottom:60.1px;
-}
-.underline .line{
-width: 5rem;
-height: 3px;
-background: linear-gradient(90deg, #b19bff,#ff555e);
-display: inline-block;
-}
-footer *{
-font-size:19px!important;
-color:#868686!important;
-line-height: 1.5;
-}
-.c63a6b1162ec9a9e16c56eefff1a2a19f *{
-color:white!important;
-}
-.btn-md{
-padding:14.5px 30.4px;
-border-radius: 0;
-}
-.w97b8aaba10f2d8840f50070e630e95f3{
-background-color:#fe5270!important;
-border-color:#fe5270!important;
-color:#ffffff!important;
-}
-.bfdb4952f64cca9f5ba97d1435826b8bf i:hover{
-background: black;
-color:#ffd4d8;
-border-radius: 50%;
-width:10mm;
-text-align:center;
-height:10mm;
-}
-.zb97b03d6588d0ae825af8e852356589e:hover{
+.x8cd7abb4f551a32a3937045a4bf2e689:hover{
 background-size: 100% 100%!important;
 color:#fecbcf!important;
 background:#ffffff!important;
@@ -81,43 +89,35 @@ background-repeat: no-repeat!important;
 background-position: 0 90%!important; 
 transition: background-size 0.2s ease-in!important;
 }
-.bfdb4952f64cca9f5ba97d1435826b8bf{
-font-size:20px;
-padding:9.6px;
-color: black;
+.e6840903e5ed6a20446809f70f262c196{
+background-color:#fe5270!important;
+border-color:#fe5270!important;
+color:#ffffff!important;
 }
-.display-2{
-font-size: 45.3px;
-}
-*{
-font-family: '', sans-serif;
-}
-.fb100b84bb58b038e680726bdd5266831{
+footer a{
+color:  #828282!important;
 text-decoration: underline!important;
 }
-.navbar a{
-font-size: 17.5px;
+.btn-md{
+padding:14.8px 30.2px;
+border-radius: 0;
 }
 li a{
-color: #ff636c;
+color: #ff6069;
 }
-ul{
-list-style: circle;
+footer{
+padding-top:60.2px;
+padding-bottom:60px;
 }
-.align-self-stretch{
-ms-flex-item-align: stretch!important;
-align-self: stretch!important;
+.display-2{
+font-size: 44.8px;
 }
-.c63a6b1162ec9a9e16c56eefff1a2a19f{
+.wf3e6a1e3c786d70326b2c4aa9a8f8767{
 background: rgba(0,0,0,0.6);
 text-align: center;
 }
-footer ul{
-padding-left: 0px!important;
-list-style: none;
-}
-.nav-link{
-color: #111111 !important;
+a{
+text-decoration: none!important;
 }
 </style>
 </head>
@@ -128,10 +128,10 @@ color: #111111 !important;
 <img alt="" src="img/istockphoto-544452292-612x612.jpg"  width="100px" ></a>
 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 <span class="navbar-toggler-icon"></span>
-</button><div class="collapse navbar-collapse" id="navbarSupportedContent">
-<ul class="navbar-nav ml-auto align-items-center">
-<li class="nav-item"><a class="zb97b03d6588d0ae825af8e852356589e nav-link" href="1.html"  >1</a></li><li class="nav-item"><a class="zb97b03d6588d0ae825af8e852356589e nav-link" href="2.html"  >2</a></li><li class="nav-item"><a class="nav-link zb97b03d6588d0ae825af8e852356589e" href="3.html"  >3</a></li><li class="nav-item">
-<a class="nav-link zb97b03d6588d0ae825af8e852356589e" href="about-us.html" rel="nofollow" >About Us</a></li>
+</button><div class="navbar-collapse collapse" id="navbarSupportedContent">
+<ul class="ml-auto align-items-center navbar-nav">
+<li class="nav-item"><a class="x8cd7abb4f551a32a3937045a4bf2e689 nav-link" href="1.html"  >1</a></li><li class="nav-item"><a class="x8cd7abb4f551a32a3937045a4bf2e689 nav-link" href="2.html"  >2</a></li><li class="nav-item"><a class="x8cd7abb4f551a32a3937045a4bf2e689 nav-link" href="3.html"  >3</a></li><li class="nav-item">
+<a class="nav-link x8cd7abb4f551a32a3937045a4bf2e689" href="about-us.html" rel="nofollow" >About Us</a></li>
 </ul>
 </div>
 </nav>
@@ -201,12 +201,12 @@ This website is owned and published by:
 </div> 
 <footer>
 <div class="container">
-<div class="align-center justify-content-center row"> 
+<div class="row align-center justify-content-center"> 
 <div class="col-md-3">
 <ul>
-<li><a class="zb97b03d6588d0ae825af8e852356589e" href="sitemap.html" rel="nofollow">Sitemap</a></li>
-<li><a class="zb97b03d6588d0ae825af8e852356589e" href="privacy-policy.html" rel="nofollow">Privacy Policy</a></li>
-<li><a class="zb97b03d6588d0ae825af8e852356589e" href="about-us.html" rel="nofollow">About Us</a></li>
+<li><a class="x8cd7abb4f551a32a3937045a4bf2e689" href="sitemap.html" rel="nofollow">Sitemap</a></li>
+<li><a class="x8cd7abb4f551a32a3937045a4bf2e689" href="privacy-policy.html" rel="nofollow">Privacy Policy</a></li>
+<li><a class="x8cd7abb4f551a32a3937045a4bf2e689" href="about-us.html" rel="nofollow">About Us</a></li>
 </ul></div></div></div>
 <hr>
 </div>

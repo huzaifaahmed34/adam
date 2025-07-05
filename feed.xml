@@ -18,34 +18,11 @@
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style type="text/css"> 
-footer{
-padding-top:60.5px;
-padding-bottom:60.5px;
-}
-.dd49b7382ecfa2535e1693bfa28fd6d15 *{
-color:white!important;
-}
-*{
-font-family: '', sans-serif;
-}
-footer ul{
-padding-left: 0px!important;
-list-style: none;
-}
 .align-self-stretch{
 ms-flex-item-align: stretch!important;
 align-self: stretch!important;
 }
-.underline .line{
-width: 5rem;
-height: 3px;
-background: linear-gradient(90deg, #a993ff,#ff5d66);
-display: inline-block;
-}
-.c24c27ffdcbe403f1e9621791579cbe5d{
-text-decoration: underline!important;
-}
-.e2d6afae8eb2b0120470ed916d3d6a5dc:hover{
+.te67120b2cc06ed19239e3c271248b33d:hover{
 background-size: 100% 100%!important;
 color:#fecbcf!important;
 background:#ffffff!important;
@@ -53,85 +30,108 @@ background-repeat: no-repeat!important;
 background-position: 0 90%!important; 
 transition: background-size 0.2s ease-in!important;
 }
-ul{
-list-style: circle;
+a{
+text-decoration: none!important;
+}
+.yb4cd8077f3bffaa3d8584a5cd39726b2{
+text-decoration: underline!important;
+}
+footer a{
+color:  #777777!important;
+text-decoration: underline!important;
 }
 .nav-link{
-color: #141414 !important;
+color: #020202 !important;
 }
-.btn-md{
-padding:14.8px 29.7px;
-border-radius: 0;
+footer *{
+font-size:19px!important;
+color:#777777!important;
+line-height: 1.5;
 }
-.x75ee96da19a8f3ca1bfff89bc2c2aaaa{
-background-color:#fe5270!important;
-border-color:#fe5270!important;
-color:#ffffff!important;
-}
-li a{
-color: #ff666f;
-}
-.dd49b7382ecfa2535e1693bfa28fd6d15{
-background: rgba(0,0,0,0.6);
-text-align: center;
-}
-.t99521893b5354e362700fa267972f0ba{
-font-size:20.1px;
-padding:9.7px;
-color: black;
+*{
+font-family: '', sans-serif;
 }
 .nav-item{
-margin-top: 10px;
-margin-bottom: 9.8px;
-padding-left: 6.9px;
-padding-right: 6.5px;
+margin-top: 9.5px;
+margin-bottom: 10px;
+padding-left: 6.7px;
+padding-right: 7.3px;
 }
-.display-2{
-font-size: 44.8px;
+li a{
+color: #ff5c65;
 }
 .navbar a{
-font-size: 17.6px;
+font-size: 18.1px;
 }
-.t99521893b5354e362700fa267972f0ba i:hover{
+.display-2{
+font-size: 44.7px;
+}
+footer ul{
+padding-left: 0px!important;
+list-style: none;
+}
+.y1b60b09f581ac0cc4c9cfe0f919fe8e3 i:hover{
 background: black;
-color:#ffd7db;
+color:#ffd1d5;
 border-radius: 50%;
 width:10mm;
 text-align:center;
 height:10mm;
 }
-footer a{
-color:  #878787!important;
-text-decoration: underline!important;
+.y1b60b09f581ac0cc4c9cfe0f919fe8e3{
+font-size:20.2px;
+padding:9.9px;
+color: black;
 }
-footer *{
-font-size:19px!important;
-color:#878787!important;
-line-height: 1.5;
+.vf9a4c9dcc2899ab82277700edd80dcf5{
+background: rgba(0,0,0,0.6);
+text-align: center;
 }
-.t99521893b5354e362700fa267972f0ba i{
+ul{
+list-style: circle;
+}
+footer{
+padding-top:60px;
+padding-bottom:59.5px;
+}
+.bbc8946cfb59ffe895796e116f2896bf8{
+background-color:#fe5270!important;
+border-color:#fe5270!important;
+color:#ffffff!important;
+}
+.vf9a4c9dcc2899ab82277700edd80dcf5 *{
+color:white!important;
+}
+.y1b60b09f581ac0cc4c9cfe0f919fe8e3 i{
 border-radius: 50%;
 width: 10mm;
 text-align: center;
 line-height: 37px;
 height: 10mm;
 }
-a{
-text-decoration: none!important;
+.btn-md{
+padding:14.9px 29.6px;
+border-radius: 0;
+}
+.underline .line{
+width: 5rem;
+height: 3px;
+background: linear-gradient(90deg, #ac96ff,#ff5760);
+display: inline-block;
 }
 </style>
 </head>
 <body>
-<nav class="navbar navbar-expand-lg">
+<nav class="navbar-expand-lg navbar">
 <a class="navbar-brand" href="index.html"  >
 
 <img alt="" src="img/istockphoto-544452292-612x612.jpg"  width="100px" ></a>
 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 <span class="navbar-toggler-icon"></span>
 </button><div class="collapse navbar-collapse" id="navbarSupportedContent">
-<ul class="ml-auto align-items-center navbar-nav">
-<li class="nav-item"><a class="e2d6afae8eb2b0120470ed916d3d6a5dc nav-link" href="index.html"  >1</a></li><li class="nav-item"><a class="nav-link e2d6afae8eb2b0120470ed916d3d6a5dc" href="2.html"  >2</a></li><li class="nav-item"><a class="e2d6afae8eb2b0120470ed916d3d6a5dc nav-link" href="3.html"  >3</a></li><li class="nav-item">
-<a class="e2d6afae8eb2b0120470ed916d3d6a5dc nav-link" href="about-us.html" rel="nofollow" >About Us</a></li>
+<ul class="navbar-nav align-items-center ml-auto">
+<li class="nav-item"><a class="te67120b2cc06ed19239e3c271248b33d nav-link" href="index.html"  >1</a></li><li class="nav-item"><a class="te67120b2cc06ed19239e3c271248b33d nav-link" href="2.html"  >2</a></li><li class="nav-item"><a class="te67120b2cc06ed19239e3c271248b33d nav-link" href="3.html"  >3</a></li><li class="nav-item">
+<a class="te67120b2cc06ed19239e3c271248b33d nav-link" href="about-us.html" rel="nofollow" >About Us</a></li>
 </ul>
 </div>
 </nav>
@@ -201,12 +201,12 @@ This website is owned and published by:
 </div> 
 <footer>
 <div class="container">
-<div class="align-center row justify-content-center"> 
+<div class="row align-center justify-content-center"> 
 <div class="col-md-3">
 <ul>
-<li><a class="e2d6afae8eb2b0120470ed916d3d6a5dc" href="sitemap.html" rel="nofollow">Sitemap</a></li>
-<li><a class="e2d6afae8eb2b0120470ed916d3d6a5dc" href="privacy-policy.html" rel="nofollow">Privacy Policy</a></li>
-<li><a class="e2d6afae8eb2b0120470ed916d3d6a5dc" href="about-us.html" rel="nofollow">About Us</a></li>
+<li><a class="te67120b2cc06ed19239e3c271248b33d" href="sitemap.html" rel="nofollow">Sitemap</a></li>
+<li><a class="te67120b2cc06ed19239e3c271248b33d" href="privacy-policy.html" rel="nofollow">Privacy Policy</a></li>
+<li><a class="te67120b2cc06ed19239e3c271248b33d" href="about-us.html" rel="nofollow">About Us</a></li>
 </ul></div></div></div>
 <hr>
 </div>

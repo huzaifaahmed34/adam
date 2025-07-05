@@ -18,17 +18,96 @@
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.bundle.min.js"></script>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 <style type="text/css"> 
-.nav-item{
-margin-top: 9.8px;
-margin-bottom: 9.5px;
-padding-left: 7.3px;
-padding-right: 7.2px;
+.nav-link{
+color: #0b0b0b !important;
+}
+footer *{
+font-size:19px!important;
+color:#888888!important;
+line-height: 1.5;
+}
+ul{
+list-style: circle;
+}
+a{
+text-decoration: none!important;
+}
+.wfded768233ea3eac2e54759238c4c5c9{
+background-color:#fe5270!important;
+border-color:#fe5270!important;
+color:#ffffff!important;
+}
+.btn-md{
+padding:14.5px 29.8px;
+border-radius: 0;
+}
+footer{
+padding-top:59.7px;
+padding-bottom:60.1px;
+}
+.c84c4cff18eb2bc8b0df5b335546376ed i{
+border-radius: 50%;
+width: 10mm;
+text-align: center;
+line-height: 37px;
+height: 10mm;
+}
+.td6f2e0683600111357eb6a197d626b2e{
+background: rgba(0,0,0,0.6);
+text-align: center;
+}
+.underline .line{
+width: 5rem;
+height: 3px;
+background: linear-gradient(90deg, #b19bff,#ff5760);
+display: inline-block;
+}
+.yef41b9a9d553391f98205152e0990310{
+text-decoration: underline!important;
+}
+.c84c4cff18eb2bc8b0df5b335546376ed i:hover{
+background: black;
+color:#ffd0d4;
+border-radius: 50%;
+width:10mm;
+text-align:center;
+height:10mm;
+}
+footer ul{
+padding-left: 0px!important;
+list-style: none;
+}
+.td6f2e0683600111357eb6a197d626b2e *{
+color:white!important;
+}
+*{
+font-family: '', sans-serif;
 }
 .align-self-stretch{
 ms-flex-item-align: stretch!important;
 align-self: stretch!important;
 }
-.e7facdf7b8347292a6b297ba4ecc81fd5:hover{
+.nav-item{
+margin-top: 10.1px;
+margin-bottom: 10.3px;
+padding-left: 7.1px;
+padding-right: 7px;
+}
+.c84c4cff18eb2bc8b0df5b335546376ed{
+font-size:20.2px;
+padding:9.9px;
+color: black;
+}
+.display-2{
+font-size: 45.4px;
+}
+li a{
+color: #ff5d66;
+}
+.navbar a{
+font-size: 17.6px;
+}
+.w859ad7768f2ab6a9b9a2e43b4b2ff4b8:hover{
 background-size: 100% 100%!important;
 color:#fecbcf!important;
 background:#ffffff!important;
@@ -37,87 +116,8 @@ background-position: 0 90%!important;
 transition: background-size 0.2s ease-in!important;
 }
 footer a{
-color:  #828282!important;
+color:  #888888!important;
 text-decoration: underline!important;
-}
-li a{
-color: #ff5a63;
-}
-footer *{
-font-size:19px!important;
-color:#828282!important;
-line-height: 1.5;
-}
-.display-2{
-font-size: 45.5px;
-}
-.t5e8384a0bdcd0a42f9161626f71267a2{
-font-size:20.4px;
-padding:9.6px;
-color: black;
-}
-.navbar a{
-font-size: 17.6px;
-}
-.w7bcf4bbd5d6dac9dbbd6cb9320339fba{
-text-decoration: underline!important;
-}
-*{
-font-family: '', sans-serif;
-}
-footer ul{
-padding-left: 0px!important;
-list-style: none;
-}
-.t5e8384a0bdcd0a42f9161626f71267a2 i{
-border-radius: 50%;
-width: 10mm;
-text-align: center;
-line-height: 37px;
-height: 10mm;
-}
-.v2097dc9b7329b6be41173b4fb0f03710{
-background-color:#fe5270!important;
-border-color:#fe5270!important;
-color:#ffffff!important;
-}
-.y59dd7ecc3e0b08f2392e8c9e0e308c45{
-background: rgba(0,0,0,0.6);
-text-align: center;
-}
-ul{
-list-style: circle;
-}
-.nav-link{
-color: #0d0d0d !important;
-}
-a{
-text-decoration: none!important;
-}
-.t5e8384a0bdcd0a42f9161626f71267a2 i:hover{
-background: black;
-color:#ffd4d8;
-border-radius: 50%;
-width:10mm;
-text-align:center;
-height:10mm;
-}
-.btn-md{
-padding:15.3px 30.4px;
-border-radius: 0;
-}
-.y59dd7ecc3e0b08f2392e8c9e0e308c45 *{
-color:white!important;
-}
-footer{
-padding-top:59.6px;
-padding-bottom:60.4px;
-}
-.underline .line{
-width: 5rem;
-height: 3px;
-background: linear-gradient(90deg, #a690ff,#ff5f68);
-display: inline-block;
 }
 </style>
 </head>
@@ -129,9 +129,9 @@ display: inline-block;
 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
 <span class="navbar-toggler-icon"></span>
 </button><div class="collapse navbar-collapse" id="navbarSupportedContent">
-<ul class="ml-auto align-items-center navbar-nav">
-<li class="nav-item"><a class="nav-link e7facdf7b8347292a6b297ba4ecc81fd5" href="1.html"  >1</a></li><li class="nav-item"><a class="e7facdf7b8347292a6b297ba4ecc81fd5 nav-link" href="2.html"  >2</a></li><li class="nav-item"><a class="e7facdf7b8347292a6b297ba4ecc81fd5 nav-link" href="3.html"  >3</a></li><li class="nav-item">
-<a class="e7facdf7b8347292a6b297ba4ecc81fd5 nav-link" href="about-us.html" rel="nofollow" >About Us</a></li>
+<ul class="align-items-center ml-auto navbar-nav">
+<li class="nav-item"><a class="w859ad7768f2ab6a9b9a2e43b4b2ff4b8 nav-link" href="1.html"  >1</a></li><li class="nav-item"><a class="w859ad7768f2ab6a9b9a2e43b4b2ff4b8 nav-link" href="2.html"  >2</a></li><li class="nav-item"><a class="w859ad7768f2ab6a9b9a2e43b4b2ff4b8 nav-link" href="3.html"  >3</a></li><li class="nav-item">
+<a class="nav-link w859ad7768f2ab6a9b9a2e43b4b2ff4b8" href="about-us.html" rel="nofollow" >About Us</a></li>
 </ul>
 </div>
 </nav>
@@ -201,12 +201,12 @@ This website is owned and published by:
 </div> 
 <footer>
 <div class="container">
-<div class="align-center row justify-content-center"> 
+<div class="justify-content-center align-center row"> 
 <div class="col-md-3">
 <ul>
-<li><a class="e7facdf7b8347292a6b297ba4ecc81fd5" href="sitemap.html" rel="nofollow">Sitemap</a></li>
-<li><a class="e7facdf7b8347292a6b297ba4ecc81fd5" href="privacy-policy.html" rel="nofollow">Privacy Policy</a></li>
-<li><a class="e7facdf7b8347292a6b297ba4ecc81fd5" href="about-us.html" rel="nofollow">About Us</a></li>
+<li><a class="w859ad7768f2ab6a9b9a2e43b4b2ff4b8" href="sitemap.html" rel="nofollow">Sitemap</a></li>
+<li><a class="w859ad7768f2ab6a9b9a2e43b4b2ff4b8" href="privacy-policy.html" rel="nofollow">Privacy Policy</a></li>
+<li><a class="w859ad7768f2ab6a9b9a2e43b4b2ff4b8" href="about-us.html" rel="nofollow">About Us</a></li>
 </ul></div></div></div>
 <hr>
 </div>
